@@ -1,0 +1,4 @@
+while(gt(wallDist, 3)){
+	move; 
+	fuelLeft;
+}

@@ -1,0 +1,5 @@
+loop {
+     turnL;
+     { move; shieldOn;}
+     takeFuel;
+}

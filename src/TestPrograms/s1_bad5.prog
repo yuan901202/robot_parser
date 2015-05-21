@@ -1,0 +1,4 @@
+if gt(fuelLeft, 0) {
+	move;
+	turnL;
+}

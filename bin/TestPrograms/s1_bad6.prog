@@ -1,0 +1,5 @@
+if (gt(fuelLeft, 0))
+   while (lt(wallDist, 0)){
+	move;
+	turnL;
+}

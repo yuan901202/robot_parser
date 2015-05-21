@@ -1,0 +1,4 @@
+while(eq(oppLR, 1))(
+	move;
+	turnL;
+)
